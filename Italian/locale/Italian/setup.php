@@ -232,7 +232,7 @@ $locale['setup_3320'] = "Hanno partecipato alle discussioni";
 $locale['setup_3321'] = "Discussioni registrate";
 $locale['setup_3322'] = "Discussioni senza risposta";
 $locale['setup_3323'] = "Quesiti irrisolti";
-$locale['setup_3324'] = "Avviare una nuova Discussioni";
+$locale['setup_3324'] = "Avviare una nuova discussione";
 
 // Step 11 - Panels
 $locale['setup_3400'] = "Navigazione";
