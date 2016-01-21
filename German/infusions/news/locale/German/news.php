@@ -16,5 +16,6 @@ $locale['news_0012'] = "Meist kommentiere News";
 $locale['news_0013'] = "Meist bewertete News";
 $locale['news_0014'] = "Thumb ansehen";
 $locale['news_0015'] = "Listenansicht";
+$locale['news_0016'] = "Es wurden bisher noch keine Kategorien angelegt.";
 
 ?>
