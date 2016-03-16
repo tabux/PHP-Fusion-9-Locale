@@ -27,23 +27,6 @@ $locale['cookie_error'] = "Помилка коржика (cookie)";
 $locale['cookie_error_description'] = "Для можливості адміністрування Ви маєте дозволити переглядачу зберігати коржики (cookie).";
 $locale['validate_title'] = "Зверніть увагу та перевірте!";
 
-// ReCaptcha2
-$locale['grecaptcha'] = "Google Recaptcha";
-$locale['grecaptcha_desc'] = "Поле для Google Recaptcha";
-$locale['grecaptcha_placeholder_1'] = "SITE KEY від Google";
-$locale['grecaptcha_placeholder_2'] = "SECRET-KEY від Google";
-$locale['no_keys'] = "Здається, Ви ще не маєте жодного ключа. Зареєструйтесь та [RECAPTCHA_LINK]отримайте публічного ключа тут[/RECAPTCHA_LINK]";
-//$locale['review_keys'] = "<a href='https://www.google.com/recaptcha/admin' target='_BLANK'><button class='button'>Переглянути Ваші ключі для Google reCAPTCHA</button></a>";
-$locale['grecaptcha_0100'] = "Публічний ключ";
-$locale['grecaptcha_0101'] = "Приватний ключ";
-$locale['grecaptcha_0102'] = "Схема кольорів";
-$locale['grecaptcha_0102a'] = "світла";
-$locale['grecaptcha_0102b'] = "темна";
-$locale['grecaptcha_0103'] = "Тип перевірки";
-$locale['grecaptcha_0103a'] = "Текст";
-$locale['grecaptcha_0103b'] = "Звук";
-$locale['grecaptcha_warn'] = "Будь ласка, вкажіть Ваш публічний та приватний ключі для reCAPTCHA";
-
 // Address errors
 $locale['street_error'] = "Значення адреси потребує уваги.";
 $locale['country_error'] = "Значення країни потребує уваги.";
@@ -75,6 +58,8 @@ $locale['token_error_5'] = "Некоректна дата ключа.";
 $locale['token_error_6'] = "Надто швидка публікація.";
 $locale['token_error_7'] = "Некоректний хеш ключа.";
 $locale['token_error_8'] = "Некоректний формат ключа.";
+$locale['token_error_9'] = "Відсутній ключ для цієї форми.";
+$locale['token_error_10'] = "Відсутній ключ для збереження: ";
 
 $locale['df_400'] = "Некоректні символи в %s.";
 $locale['df_401'] = "Електронна адреса %s некоректна.";
@@ -94,4 +79,19 @@ $locale['df_422'] = "Невідома помилка (запит)";
 $locale['df_423'] = "Зображення завантажено некоректно. Будь ласка, спробуйте ще раз";
 $locale['df_424'] = "Кількість файлів для завантаження перевищують допустиме значення. Будь ласка, приєднайте менше файлів і спробуйте ще раз.";
 
-$locale['df_error_text'] = "%s містить помилку і потребує Вашої уваги.";
+// ReCaptcha2
+$locale['grecaptcha'] = "Google Recaptcha";
+$locale['grecaptcha_desc'] = "Поле для Google Recaptcha";
+$locale['grecaptcha_placeholder_1'] = "SITE KEY від Google";
+$locale['grecaptcha_placeholder_2'] = "SECRET-KEY від Google";
+$locale['no_keys'] = "Здається, Ви ще не маєте жодного ключа. Зареєструйтесь та [RECAPTCHA_LINK]отримайте публічного ключа тут[/RECAPTCHA_LINK]";
+//$locale['review_keys'] = "<a href='https://www.google.com/recaptcha/admin' target='_BLANK'><button class='button'>Переглянути Ваші ключі для Google reCAPTCHA</button></a>";
+$locale['grecaptcha_0100'] = "Публічний ключ";
+$locale['grecaptcha_0101'] = "Приватний ключ";
+$locale['grecaptcha_0102'] = "Схема кольорів";
+$locale['grecaptcha_0102a'] = "світла";
+$locale['grecaptcha_0102b'] = "темна";
+$locale['grecaptcha_0103'] = "Тип перевірки";
+$locale['grecaptcha_0103a'] = "Текст";
+$locale['grecaptcha_0103b'] = "Звук";
+$locale['grecaptcha_warn'] = "Будь ласка, вкажіть Ваш публічний та приватний ключі для reCAPTCHA";
