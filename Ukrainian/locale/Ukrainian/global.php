@@ -11,6 +11,7 @@ $locale['charset'] = "utf-8";
 $locale['region'] = "UA";
 $locale['xml_lang'] = "ua";
 $locale['tinymce'] = "uk";
+$locale['select2'] = "ua";
 $locale['phpmailer'] = "ua";
 $locale['datepicker'] = "ua";
 
