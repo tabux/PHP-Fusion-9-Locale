@@ -1,4 +1,4 @@
-﻿<?php
+<?php
 // Web Link Category titles
 $locale['402'] = "Текущи категории на интернет връзките";
 // Web Link titles

@@ -1,4 +1,4 @@
-﻿<?php
+<?php
 $locale['gallery_0001'] = "Галерия";
 $locale['gallery_0002'] = "Добавяне на снимка";
 $locale['gallery_0003'] = "Редакция на снимка";

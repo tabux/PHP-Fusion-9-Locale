@@ -1,4 +1,4 @@
-﻿<?php
+<?php
 $locale['bb_quote_description'] = "Цитиране на избрания текст";
 $locale['bb_quote_usage'] = "Текст за цитиране";
 $locale['bb_quote_expand'] = "Вижте целия текст";

@@ -1,4 +1,4 @@
-﻿<?php
+<?php
 //news, articles, blog
 $locale['400'] = "публикувано от ";
 $locale['401'] = " на ";

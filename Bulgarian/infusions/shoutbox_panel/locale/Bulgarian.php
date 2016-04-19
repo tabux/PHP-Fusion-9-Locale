@@ -1,10 +1,9 @@
-﻿<?php
+<?php
 $locale['SB_title'] = "Чат";
 $locale['SB_desc'] = "Чат";
 $locale['SB_admin1'] = "Администрация на чата";
 
 // Shoutbox
-$locale['SB_title'] = "Чат";
 $locale['SB_name'] = "Име:";
 $locale['SB_message'] = "Съобщение:";
 $locale['SB_shout'] = "Публикувай";

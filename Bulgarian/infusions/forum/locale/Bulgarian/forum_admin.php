@@ -1,4 +1,4 @@
-﻿<?php
+<?php
 /* Common Forum Locales */
 $locale['forum_000'] = 'Създаване на форум';
 $locale['forum_000a'] = 'Обновяване на форум';

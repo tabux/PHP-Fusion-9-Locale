@@ -1,4 +1,4 @@
-﻿<?php
+<?php
 // Items shown in profile
 $locale['u040'] = "Дата на присъединяване";
 $locale['u041'] = "Последна визита";

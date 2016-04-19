@@ -1,4 +1,4 @@
-﻿<?php
+<?php
 // Article titles
 $locale['articles_0000'] = "Текущи статии";
 $locale['articles_0001'] = "Статии";

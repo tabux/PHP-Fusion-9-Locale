@@ -1,4 +1,4 @@
-﻿<?php
+<?php
 // Infusion Management
 $locale['400'] = "Добавки";
 $locale['401'] = "Добави";

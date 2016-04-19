@@ -1,4 +1,4 @@
-﻿<?php
+<?php
 // Forum Ranks Titles
 $locale['400'] = "Добавяне на ранк";
 $locale['401'] = "Редактиране на ранка";

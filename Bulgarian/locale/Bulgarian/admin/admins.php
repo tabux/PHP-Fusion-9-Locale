@@ -1,4 +1,4 @@
-﻿<?php
+<?php
 // Administrators messages
 $locale['400'] = "Администраторът е добавен";
 $locale['401'] = "Администраторът е обновен";

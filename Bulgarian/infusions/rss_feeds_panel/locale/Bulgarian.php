@@ -1,4 +1,4 @@
-﻿<?php
+<?php
 $locale['rss000'] = " - Блог";
 $locale['rss001'] = " - Форуми";
 $locale['rss002'] = " - Статии";

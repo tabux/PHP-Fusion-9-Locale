@@ -1,4 +1,4 @@
-﻿<?php
+<?php
 // News titles
 $locale['SL_0001'] = 'Връзки в сайта';
 

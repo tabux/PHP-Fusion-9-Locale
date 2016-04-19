@@ -1,4 +1,4 @@
-﻿<?php
+<?php
 $locale['susp00'] = "Потребители";
 $locale['susp01'] = "Баннати";
 $locale['susp02'] = "Неактивни";

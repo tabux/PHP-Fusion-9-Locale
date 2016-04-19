@@ -1,4 +1,4 @@
-﻿<?php
+<?php
 $locale['400'] = "Търсене в ".fusion_get_settings('sitename');
 $locale['401'] = "Търсете за:";
 $locale['402'] = "Търсене";

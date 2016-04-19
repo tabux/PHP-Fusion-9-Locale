@@ -1,4 +1,4 @@
-﻿<?php
+<?php
 $locale['bb_geshi_description'] = "GeSHi код инструмент";
 $locale['bb_geshi_usage'] = "Текст за написване с GeSHi Class";
 $locale['bb_geshi_lang'] = "Използван език за кода";

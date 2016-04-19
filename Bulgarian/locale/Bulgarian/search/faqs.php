@@ -1,4 +1,4 @@
-﻿<?php
+<?php
 $locale['fq400'] = "ЧЗВ";
 $locale['fq401'] = "ЧЗВ";
 $locale['fq402'] = "ЧЗВ";

@@ -1,4 +1,4 @@
-﻿<?php
+<?php
 $locale['uf_blacklist'] = "Черен списък";
 $locale['uf_blacklist_desc'] = "Личен черен списък на потребителя";
 $locale['uf_blacklist_error'] = "Грешка в типа данни";

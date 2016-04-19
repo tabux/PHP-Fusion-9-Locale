@@ -1,7 +1,7 @@
-﻿<?php
+<?php
 // Index
 $locale['setup_0000'] = "Инсталация на PHP-Fusion 9.0";
-$locale['setup_0001'] = "Инсталация на PHP-Fusion 9.0 Edition Setup";
+$locale['setup_0001'] = "Инсталация на PHP-Fusion 9.0";
 $locale['setup_0002'] = 'Добре дошли в инсталацията на PHP-Fusion 9.0';
 $locale['setup_0003'] = "Инсталаторът ще Ви напътства през стъпките нужни за инсталирането на PHP-Fusion CMS на Вашия сървър. Ако се нуждаете от допълнителна помощ, моля прочете нашата <a class='strong' href='https://php-fusion.co.uk/infusions/wiki/documentation.php?page=208' target='_blank'>документация</a>.";
 $locale['setup_0005'] = " Прочетох и съм съгласен с <a href='https://php-fusion.co.uk/license/' target='_blank'>условията за ползване</a> на  PHP-Fusion> ";
@@ -42,11 +42,9 @@ $locale['setup_1013'] = 'Промяна на параметрите на суп�
 $locale['setup_1014'] = 'Създай наново .htaccess';
 $locale['setup_1015'] = 'Премахни текущия файл и го замени със стандартна версия на .htaccess';
 $locale['setup_1016'] = 'Създай файла';
-
 $locale['setup_1017'] = 'Отмяна и изход от инсталацията';
 $locale['setup_1018'] = 'Може да излезете от инсталатора, като натиснете бутона по-долу. Това ще преименува Вашия config_temp.php отново в config.php.';
 $locale['setup_1019'] = 'Изход от инсталатора';
-
 
 // Step 2
 $locale['setup_1100'] = 'Преминал успешно';
@@ -306,12 +304,8 @@ require_once("user_fields/user_web.php");
 require_once("user_fields/user_yahoo.php");
 
 // Make checks on new files that comes with 9
-//if (file_exists(LOCALE."user_fields/user_timezone.php")) {
 require_once("user_fields/user_timezone.php");
-//}
-//if (file_exists(LOCALE."user_fields/user_blacklist.php")) {
 require_once("user_fields/user_blacklist.php");
-//}
 
 // Welcome message
 $locale['setup_3650'] = "Добре дошли във Вашия сайт";

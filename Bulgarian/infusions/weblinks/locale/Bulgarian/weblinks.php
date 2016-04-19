@@ -1,4 +1,4 @@
-﻿<?php
+<?php
 $locale['400'] = "Интернет връзки";
 // Download File Information
 $locale['410'] = "Нова";

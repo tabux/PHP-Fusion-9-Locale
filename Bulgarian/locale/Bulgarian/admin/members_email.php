@@ -1,4 +1,4 @@
-﻿<?php
+<?php
 $locale['email_create_subject'] = "Потребителят е създаден в [SITENAME]";
 $locale['email_create_message'] = "Здравейте [USER_NAME],\n
 Потребителят Ви в [SITENAME] е създаден.\nВече можете да влезете, като използвате следната информация:\n

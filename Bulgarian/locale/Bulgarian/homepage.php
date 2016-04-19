@@ -1,4 +1,4 @@
-﻿<?php
+<?php
 // block titles
 $locale['home_0000'] = "Последни новини";
 $locale['home_0001'] = "Последни статии";

@@ -1,4 +1,4 @@
-﻿<?php
+<?php
 // Titles
 $locale['400'] = "robots.txt";
 // Messages

@@ -1,4 +1,4 @@
-﻿<?php
+<?php
 /**
  * English Locale
  * charset as ISO 639-1 - http://www.loc.gov/standards/iso639-2/php/code_list.php
@@ -9,6 +9,7 @@ $locale['charset'] = "utf-8";
 $locale['region'] = "BG";
 $locale['xml_lang'] = "bg";
 $locale['tinymce'] = "bg";
+$locale['select2'] = "bg";
 $locale['phpmailer'] = "bg";
 $locale['datepicker'] = "bg-bg";
 // Full & Short Months

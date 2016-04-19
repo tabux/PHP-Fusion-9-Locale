@@ -1,4 +1,4 @@
-﻿<?php
+<?php
 $locale['400'] = "Информация за PHP";
 //General
 $locale['401'] = "Обща";

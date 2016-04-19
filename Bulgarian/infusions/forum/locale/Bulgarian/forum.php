@@ -1,4 +1,4 @@
-﻿<?php
+<?php
 // Forum Index
 $locale['forum_0000'] = "Дискусионен форум";
 $locale['forum_0001'] = "Форум";

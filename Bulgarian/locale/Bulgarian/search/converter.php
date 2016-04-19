@@ -1,4 +1,4 @@
-﻿<?php
+<?php
 $filename_locale['articles.php'] = "Статии";
 $filename_locale['blog.php'] = "Блог";
 $filename_locale['custompages.php'] = "Допълнителни страници";

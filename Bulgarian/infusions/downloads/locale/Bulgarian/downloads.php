@@ -1,4 +1,4 @@
-﻿<?php
+<?php
 $locale['download_1000'] = "Файлове";
 $locale['download_1001'] = "Файлове - начало";
 $locale['download_1003'] = "Категории на файловете";

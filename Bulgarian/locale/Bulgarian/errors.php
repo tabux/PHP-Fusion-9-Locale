@@ -1,4 +1,4 @@
-﻿<?php
+<?php
 // Error Levels Desciption
 $locale['E_ERROR'] = "Фатални грешки спират изпълнението на скрипта";
 $locale['E_WARNING'] = "Няма фатални грешки по време на процеса";

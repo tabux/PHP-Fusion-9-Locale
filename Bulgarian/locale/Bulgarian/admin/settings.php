@@ -1,4 +1,4 @@
-﻿<?php
+<?php
 $locale['400'] = "Насртойки";
 // Site Settings
 $locale['401'] = "Главни";

@@ -1,4 +1,4 @@
-﻿<?php
+<?php
 // Comments titles
 $locale['400'] = "Редакция на коментара";
 $locale['401'] = "Коментари";

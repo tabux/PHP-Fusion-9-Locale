@@ -1,4 +1,4 @@
-﻿<?php
+<?php
 // Downloads titles
 $locale['download_0000'] = "Текущи файлове";
 $locale['download_0001'] = "Файлове";

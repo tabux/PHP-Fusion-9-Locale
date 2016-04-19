@@ -1,4 +1,4 @@
-﻿<?php
+<?php
 // Edit/Save/Delete User Group Messages
 $locale['400'] = "Потребителската група е обновена";
 $locale['401'] = "Поребителската група е добавена";

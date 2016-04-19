@@ -1,4 +1,4 @@
-﻿<?php
+<?php
 /* Buttons description */
 $locale['html_000'] = 'Удебелен';
 $locale['html_001'] = 'Наклонен';
