@@ -17,7 +17,7 @@ Vertė:
 */
 
 // Locale Settings
-setlocale(LC_TIME, "lt","LT"); // Linux Server (Windows may differ)
+setlocale(LC_ALL, 'lt_LT.UTF-8');
 $locale['charset'] = "UTF-8";
 $locale['region'] = "LT"; // Lithuania
 $locale['xml_lang'] = "lt";
