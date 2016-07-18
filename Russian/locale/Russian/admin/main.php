@@ -70,6 +70,9 @@ $locale['ROB'] = "robots.txt";
 $locale['TS'] = "Темы оформления";
 $locale['S13'] = "Параметры блогов";
 $locale['LANG'] = "Настройки языков";
+$locale['UG'] = "Группы пользователей";
+$locale['UP'] = "Профиль пользователя"; //need add
+$locale['WC'] = "Категории ссылок";
 
 // Site Information
 $locale['250'] = "Админпанель <small>Обзор сайта</small>";
