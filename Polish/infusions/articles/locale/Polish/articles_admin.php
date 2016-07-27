@@ -76,7 +76,7 @@ $locale['articles_0252'] = "Nie zdefiniowano kategorii artykułów";
 $locale['articles_0253'] = "Przed dodaniem artykułów musisz zdefiniować przynajmniej jedną kategorię artykułów.";
 $locale['articles_0254'] = "Przejdź do kategorii artykułów";
 $locale['articles_0255'] = "";//" to go to Article Categories"; //cleared by jantom
-$locale['articles_0256'] = "%s sa wyłączone globalnie i&nbsp;będą niedostępne dopóki ustawienia nie ulegną zmianie";
+$locale['articles_0256'] = "%s sa wyłączone globalnie i&nbsp;będą niedostępne dopóki ustawienia nie ulegną zmianie.";
 $locale['articles_0257'] = "Proszę dodać słowa kluczowe";
 // Category form
 $locale['articles_0300'] = "Nazwa:";
@@ -100,4 +100,4 @@ $locale['articles_0343'] = "Brak artykułów";
 $locale['articles_0350'] = "Usunąć kategorię artykułów?";
 // Error Messages
 $locale['articles_0351'] = "Musisz podać nazwę kategorii!";
-$locale['articles_0352'] = "Kategoria o takiej nazwie już istnieje!";
+$locale['articles_0352'] = "Kategoria o&nbsp;takiej nazwie już istnieje!";
